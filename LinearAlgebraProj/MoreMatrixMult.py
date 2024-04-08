@@ -2,7 +2,7 @@ import MatrixMult
 import numpy as np
 
 '''
-Function is an absolute mess right now
+Project is an absolute mess right now
 Will reorganize and rename files/functions/variables
 '''
 
